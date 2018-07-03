@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTVDBClient", "TheTVDBClient\TheTVDBClient.csproj", "{A2111324-3D7A-4C7E-A615-9B675A3A1B84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTVDBClient.Tests", "TheTVDBClient.Tests\TheTVDBClient.Tests.csproj", "{78FF1B16-87FC-4D59-A260-4395B055E3A9}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
